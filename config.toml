@@ -1,0 +1,14 @@
+[browser]
+gatherUsageStats = false
+
+[client]
+showErrorDetails = false
+toolbarMode = "viewer"
+
+[theme]
+base = "dark"
+primaryColor = "#7c3aed"
+backgroundColor = "#07070e"
+secondaryBackgroundColor = "#0e0e1d"
+textColor = "#f0f0fa"
+font = "sans serif"
